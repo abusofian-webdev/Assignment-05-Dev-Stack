@@ -4,6 +4,8 @@ Dev Stack is a responsive React application for exploring popular web developmen
 
 ## Live Site
 
+[View Live Site](assign-05-dev-stack.netlify.app)
+
 ## Technologies Used
 * React
 * Tailwind CSS / DaisyUI
