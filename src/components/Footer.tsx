@@ -1,6 +1,7 @@
 import React from 'react';
 import logoText from '../assets/logo-text.png';
 
+
 export const Footer: React.FC = () => {
   return (
     <footer className="border-t border-slate-200 bg-white mt-20">
