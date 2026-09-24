@@ -21,6 +21,7 @@ export const Navbar: React.FC = () => {
         <button className="bg-pink-600 hover:bg-pink-600 text-white px-5 py-2 rounded-full font-semibold transition-colors">
           Sign Up
         </button>
+        
       </div>
     </header>
   );
