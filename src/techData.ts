@@ -12,6 +12,7 @@ export const techData: TechItem[] = [
     rating: 4.8,
     icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'
   },
+  
   {
     id: 'vue',
     name: 'Vue.js',
