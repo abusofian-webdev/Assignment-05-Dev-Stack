@@ -10,6 +10,7 @@ interface TechCardProps {
 
 export const TechCard: React.FC<TechCardProps> = ({ tech, isSelected, onToggle }) => {
   return (
+    
     <div className="bg-white rounded-xl border border-slate-200 p-5 shadow-sm hover:shadow-md transition-shadow flex flex-col justify-between">
       <div>
         <div className="flex items-center justify-between mb-3">
